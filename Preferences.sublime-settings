@@ -1,0 +1,20 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/User/SublimeLinter/base16 (SL).tmTheme",
+	"copy_with_empty_selection": false,
+	"font_size": 9,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"mouse_wheel_switches_tabs": true,
+	"overlay_scroll_bars": "enabled",
+	"remember_open_files": false,
+	"spacegray_tabs_auto_width": true,
+	"theme": "SoDaReloaded Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

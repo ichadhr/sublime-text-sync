@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter-Edge",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"PHP Completions Kit",
+		"PowerCursors",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Syntax Highlighting for Sass",
+		"Theme - SoDaReloaded",
+		"Tomorrow Color Schemes"
+	]
+}
