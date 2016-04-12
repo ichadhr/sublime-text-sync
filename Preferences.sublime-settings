@@ -13,8 +13,8 @@
 	"overlay_scroll_bars": "enabled",
 	"remember_open_files": false,
 	"spacegray_tabs_auto_width": true,
+	"tab_size": 4,
 	"theme": "SoDaReloaded Dark.sublime-theme",
-	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
