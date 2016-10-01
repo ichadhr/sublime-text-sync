@@ -7,7 +7,6 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Package Control",
 		"Vintage"
 	],
 	"mouse_wheel_switches_tabs": true,
