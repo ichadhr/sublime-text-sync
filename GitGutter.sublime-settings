@@ -1,3 +1,4 @@
 {
-    "show_in_minimap": false
+    "show_in_minimap": false,
+    "git_binary": "C:\\Tools\\git\\bin\\git.exe"
 }
