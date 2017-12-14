@@ -5,19 +5,18 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"Alignment",
 		"All Autocomplete",
 		"ApacheConf.tmLanguage",
-		"ayu",
 		"BracketHighlighter",
-		"CodeIgniter Utilities",
+		"Console Wrap",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
 		"Function Name Display",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
-		"HTMLBeautify",
 		"LESS",
 		"Package Control",
 		"PHP Completions Kit",
@@ -29,7 +28,8 @@
 		"SublimeLinter-php",
 		"Syntax Highlighting for Sass",
 		"Theme - SoDaReloaded",
-		"Tomorrow Color Schemes"
+		"Tomorrow Color Schemes",
+		"Wallaby"
 	],
 	"repositories":
 	[
